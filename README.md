@@ -1,2 +1,2 @@
 # ChestNest
-A Web Chat Application
+A Web Chat Application using socket.io
